@@ -1,0 +1,71 @@
+{
+  "start_date": "2026-10-08",
+  "end_date": "2026-10-14",
+  "students": [
+    {
+      "name": "Ananya Sharma",
+      "roll_no": "201",
+      "attendance": {
+        "2026-10-08": "Present",
+        "2026-10-09": "Present",
+        "2026-10-10": "Absent",
+        "2026-10-11": "Present",
+        "2026-10-12": "Present",
+        "2026-10-13": "Absent",
+        "2026-10-14": "Present"
+      }
+    },
+    {
+      "name": "Kabir Verma",
+      "roll_no": "202",
+      "attendance": {
+        "2026-10-08": "Present",
+        "2026-10-09": "Absent",
+        "2026-10-10": "Present",
+        "2026-10-11": "Present",
+        "2026-10-12": "Absent",
+        "2026-10-13": "Present",
+        "2026-10-14": "Present"
+      }
+    },
+    {
+      "name": "Meera Singh",
+      "roll_no": "203",
+      "attendance": {
+        "2026-10-08": "Present",
+        "2026-10-09": "Present",
+        "2026-10-10": "Present",
+        "2026-10-11": "Present",
+        "2026-10-12": "Present",
+        "2026-10-13": "Absent",
+        "2026-10-14": "Present"
+      }
+    },
+    {
+      "name": "Arjun Patel",
+      "roll_no": "204",
+      "attendance": {
+        "2026-10-08": "Absent",
+        "2026-10-09": "Present",
+        "2026-10-10": "Absent",
+        "2026-10-11": "Present",
+        "2026-10-12": "Present",
+        "2026-10-13": "Present",
+        "2026-10-14": "Absent"
+      }
+    },
+    {
+      "name": "Sana Khan",
+      "roll_no": "205",
+      "attendance": {
+        "2026-10-08": "Present",
+        "2026-10-09": "Present",
+        "2026-10-10": "Present",
+        "2026-10-11": "Absent",
+        "2026-10-12": "Present",
+        "2026-10-13": "Present",
+        "2026-10-14": "Present"
+      }
+    }
+  ]
+}
